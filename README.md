@@ -1,1 +1,1 @@
-# final_project
+# Smart Mirror智能鏡子
