@@ -19,8 +19,8 @@ OpenWeatherAPI取得；新聞資訊則透過newsapi.org。
 ![image](https://github.com/asd855852/final_project/blob/main/final2.PNG)
 ![image](https://github.com/asd855852/final_project/blob/main/final3.PNG)  
 當系統開機時，便會 執行 main.py中 的 tick(), setWeather()以及
-執行預設設定的介面。使用者可以藉由鏡面下的顯示器，取得一些重要的資訊以及在右下角的部分會顯示當前的使用者。在鏡面的右
-下角可以透過Change User的按鍵做使用者的切換，當按下按鍵時將下一位使用者傳回至main.py做ReloadNews(),ReloadWeather()介面的刷新。
+執行預設設定的介面。使用者可以藉由鏡面下的顯示器，取得一些重要的資訊以及在右下角的部分會顯示當前的使用者。  
+在鏡面的右下角可以透過Change User的按鍵做使用者的切換，當按下按鍵時將下一位使用者傳回至main.py做ReloadNews()，ReloadWeather()介面的刷新。
 # 參考資料
 Magic Mirror for JavaScript: https://github.com/MichMich/MagicMirror  
 Python Tkinter: https://docs.python.org/3/library/tkinter.html  
